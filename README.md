@@ -4,7 +4,7 @@ The following project of data analysis was compiled between:
 Spencer Broberg,
 Everardo Maya,
 Ivan Montelongo,
-Sam Van de Velde,
+Sam Van de Velde.
 
 Our project will utlize the data from a variety of sources like the LA Times, the EPA and other sources to calculate the COVID infection rates
 within the Los Angeles greater area. The team will use housing data, air quality, travel and people's compliance in social distancing to confirm 
