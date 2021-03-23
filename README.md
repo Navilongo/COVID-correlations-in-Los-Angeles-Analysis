@@ -1,4 +1,4 @@
-# UCSD Project 1 - COVID in Los Angeles
+# UCSD Data Visualization Project 1 - COVID in Los Angeles
 
 The following project of data analysis was compiled between:
 Spencer Broberg
