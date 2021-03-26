@@ -15,13 +15,12 @@ the information by peparing data driven graphical representations to support our
 
 Among the impacting variables compiled, we will be reviewing:
 
-1.	Passenger volume of inbound flights
+1.	ZIP code
 2.	Median income per district/poverty rate
 3.	Crime rate
 4.	Air pollution
 5.	Vaccine doses administered
 6.	Demographics (age/race/gender)
-7.	ZIP code
 
 
 
