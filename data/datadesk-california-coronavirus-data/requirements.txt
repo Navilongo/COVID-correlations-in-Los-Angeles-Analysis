@@ -1,7 +1,3 @@
-jupyterlab
-pandas
-altair
-altair-latimes
-nbclient
-nb-black
-click
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cb1d4aeac0be4c4f9af1e8b55e4889d27792dda03bce3e66ecf147932ccf0f6
+size 64
